@@ -7,12 +7,15 @@
 #### O site está com o estilo mais minimalista.
 
 ### Fotos e descrição do site
+
 ## Home
 
 ![Home](img/Home.jpg)
-##### O nosso **Home** está bem simples e charmoso, fazendo uma breve apresentação do site, e também conta com um menu claro que irá levar vocês para vêr o restante do nosso site.
+
+##### O nosso **Home** está bem simples e charmoso, fazendo uma breve apresentação do site, que também conta com um menu que irá levar vocês para vêr o restante do nosso site.
 
 ##### E também com o botão de agendamendo para cidade que você vai estar visitando.
+
 ## Packages
 
 ![Packages](img/packages.jpg)
